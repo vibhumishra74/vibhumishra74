@@ -30,7 +30,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://json.com" target="_blank"> <img src="https://img.icons8.com/officel/16/000000/json.png"/> </a>
+    <a href="https://json.com" target="_blank"> <img src="https://img.icons8.com/ios/100/000000/json-download.png"/> </a> 
     <a href="https://materialui.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
     <!-- <a href="https://php.com" target="_blank"> <img src="https://img.icons8.com/officel/80/4a90e2/php-logo.png"/> </a> -->
     <a href="https://heroku.com" target="_blank"> <img src="https://img.icons8.com/color/64/000000/heroku.png"/> </a>
