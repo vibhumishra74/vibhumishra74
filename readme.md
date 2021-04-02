@@ -3,10 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vibhu</h1>
 <h3 align="center">I'm a passionate Front-end Developer from India.</h3>
 
-
 ## 🙋‍♂️ About Me
-
-
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -33,7 +30,10 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://json.com" target="_blank"> <img src="https://img.icons8.com/officel/16/000000/json.png"/> </a>
     <a href="https://materialui.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
+    <!-- <a href="https://php.com" target="_blank"> <img src="https://img.icons8.com/officel/80/4a90e2/php-logo.png"/> </a> -->
+    <a href="https://heroku.com" target="_blank"> <img src="https://img.icons8.com/color/64/000000/heroku.png"/> </a>
     
 </p>
 
@@ -54,7 +54,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -63,16 +62,18 @@
 <br/>
 <br/>
 
-## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vibhuti-mishra-8883771a7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 <a href = "https://www.instagram.com/vibhu3969/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
+<a href = "https://www.behance.net/vibhumishra"><img src="https://img.icons8.com/cute-clipart/64/000000/behance.png"/></a>
+
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=vibhumishra74">
 </a>
